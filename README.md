@@ -4,7 +4,7 @@ An example for [page-transitions]()
 
 ##demo
 
-[demo]()
+[demo](http://brandonxiang.github.io/example-pagetransitions)
 
 ##License
 
